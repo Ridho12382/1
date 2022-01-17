@@ -165,8 +165,8 @@ lv: 'Invalid link!',
 api: 'Error'
 },
 only: {
-group: 'Khusus Grup ngab',
-owner: 'Khusus Owner Ngab'
+group: 'Khusus Grup Bro',
+owner: 'Khusus Owner Bro'
 }
 }
 const isUrl = (url) => {
@@ -759,10 +759,6 @@ ros = await Lexxy.prepareMessageFromContent(from,{
 },
 {
 "title": "Random Menu ⚡️",
-"rowId": `${prefix}randommenu`
-},
-{
-"title": "Group Menu 👥️",
 "rowId": `${prefix}randommenu`
 },
 {
